@@ -25,3 +25,7 @@ Simulation and waveform analysis were carried out using the EDA Playground platf
 The results from the simulation confirmed that the filter operated correctly and the output reflected the effect of each input sample weighted by the corresponding coefficients. The waveform indicated that the values built up over time, illustrating how the filter integrates multiple samples to form the output. This validated that the FIR filter design was functioning as intended.
 
 This task offered practical experience in designing and simulating digital filters using hardware description languages. It also enhanced understanding of concepts such as delay lines, coefficient multiplication, and pipeline synchronization. The code and waveform output met all the requirements stated in the task. The design and simulation were completed using EDA Playground, and signal transitions were analyzed using the integrated EPWave waveform viewer.
+
+**SIMULATION OUTPUT
+
+![Image](https://github.com/user-attachments/assets/b46149d0-2a19-4167-aa86-b4ee4b401457)
